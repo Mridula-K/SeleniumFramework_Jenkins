@@ -2,7 +2,7 @@ package parameter;
 
 import org.testng.annotations.Test;
 
-public class JenkinsParameter {
+public class JenkinsParameterTest {
 
 	@Test
 	public void recieveDataFromJenkins()
