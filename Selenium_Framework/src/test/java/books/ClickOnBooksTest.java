@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class ClickOnBooks {
+public class ClickOnBooksTest {
 @Test
 public void click()
 {
