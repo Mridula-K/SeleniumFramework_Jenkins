@@ -17,5 +17,6 @@ public void login()
 	 
 	 driver.get("https://demoapp.skillrary.com/");
 	 Reporter.log("Successfully executed");
+	 System.out.println("Successfully executed");
 }
 }
